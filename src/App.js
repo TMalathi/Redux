@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import AddUser from './components/AddUser';
 import ShowUser from './components/ShowUser';
